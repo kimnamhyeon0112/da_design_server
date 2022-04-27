@@ -1,1 +1,27 @@
-# da_design_server
+# da_design_server- [Project summary](#da-design-server)
+  - [Purpose](#purpose)
+  - [Requirements](#requirements)
+  - [How to install](#how-to-install)
+- [How to use](#how-to-use)
+- [Version History](#version-history)
+- [Contacts](#contacts)
+- [License](#license)
+
+---
+
+### Project summary
+
+#### Purpose
+
+수업 프로젝트
+
+#### Requirements
+
+* requirements.txt 참고.
+
+#### How to install
+
+```sh
+git clone ...........
+cd da_design_server_학번
+pip3 install -r requirements.txt
