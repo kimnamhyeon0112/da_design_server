@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import requests
 import datetime
 from pymongo import MongoClient
-from da_design_server2.src import mylogger, myconfig
+from da_design_server.src import mylogger, myconfig
 import pdb
 
 def crawl_stock(logger, market='kospi', limit=60):
